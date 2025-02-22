@@ -13,8 +13,11 @@ This application is developed to run on a Linux environment using Windows Subsys
 ### Features:
 
 **Algorithm Simulations**: Simulate Round Robin, Shortest Job First, and Priority Scheduling algorithms.
+
 **Interactive GUI**: Allows selection of key parameters like process count, maximum burst time, and maximum priority (Priority Scheduling).
+
 **Performance Metrics**: Calculate and display metrics including CPU utilization, memory usage, waiting time, turnaround time, response time, and context switching.
+
 **Adjustable Parameters**: Easily set number of processes, maximum burst time, and (for Priority Scheduling) a priority range.
 **Real-Time Metrics**: Track CPU and memory utilization, calculate fairness, and record process timing metrics.
 
